@@ -1,2 +1,2 @@
-# Elevate-labs----project
-PERSONAL FIREWALL 
+# Personal-Firewall
+Configured a personal firewall and created a CLI , GUI interfaces for the firewall
